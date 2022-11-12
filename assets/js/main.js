@@ -262,5 +262,5 @@ function calculate_age(dob) {
 document.getElementById("dynamic-age").innerHTML = calculate_age(new Date(1997, 08, 10));
 document.getElementById("dynamic-phone-no").innerHTML = "+8809696151593";
 document.getElementById("dynamic-phone-link").href = "tel:+8809696151593";
-document.getElementById("dynamic-email").innerHTML = "therakiburkhan@outlook.com";
-document.getElementById("dynamic-email-link").href = "mailto:therakiburkhan@outlook.com";
+document.getElementById("dynamic-email").innerHTML = "contact@therakiburkhan.me";
+document.getElementById("dynamic-email-link").href = "mailto:contact@therakiburkhan.me";
